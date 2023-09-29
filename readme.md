@@ -18,7 +18,7 @@ Since this extension is not published on the Chrome Web Store, you need to insta
 
 ### Option 1: Install in developer mode
 
-1. Download the extension files from [GitHub](https://www.youtube.com/watch?v=sZeUZjhOfgM) or any other source and unzip them to a folder on your computer.
+1. Download the extension files from [GitHub](https://github.com/VikasKumarPatel/Email-Extractor-Chrome-Extension/releases/download/V1.0/email.extrator.chrome.crx) or any other source and unzip them to a folder on your computer.
 2. Go to the Extensions page by entering chrome://extensions in a new tab. Alternatively, click on the Extensions menu puzzle button and select Manage Extensions at the bottom of the menu. Or, click the Chrome menu, hover over More Tools, then select Extensions.
 3. Enable Developer mode by clicking the toggle switch next to Developer mode.
 4. Click on the Load unpacked button and select the folder containing the extension files.
@@ -26,7 +26,7 @@ Since this extension is not published on the Chrome Web Store, you need to insta
 
 ### Option 2: Install as a packed version
 
-1. Download the extension files from [GitHub](https://www.youtube.com/watch?v=sZeUZjhOfgM) or any other source and unzip them to a folder on your computer.
+1. Download the extension files from [GitHub](https://github.com/VikasKumarPatel/Email-Extractor-Chrome-Extension/releases/download/V1.0/email.extrator.chrome.crx) or any other source and unzip them to a folder on your computer.
 2. Go to the Extensions page by entering chrome://extensions in a new tab. Alternatively, click on the Extensions menu puzzle button and select Manage Extensions at the bottom of the menu. Or, click the Chrome menu, hover over More Tools, then select Extensions.
 3. Enable Developer mode by clicking the toggle switch next to Developer mode.
 4. Click on the Pack extension button and select the folder containing the extension files. Leave the private key file field blank if this is your first time packing this extension.
