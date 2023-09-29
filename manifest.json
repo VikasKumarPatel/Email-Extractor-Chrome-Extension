@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Email Detector",
+    "version": "1.0",
+    "description": "A chrome extension that extracts email addresses from the current web page and downloads them as a CSV file.",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon16.ico",
+            "48": "icon48.ico",
+            "128": "icon128.ico"
+        }
+    },
+    "permissions": ["activeTab"],
+    "developer": {
+        "name": "Vikas Kumar Patel",
+        "url": "https://github.com/vikasKumarPatel"
+    }
+}
